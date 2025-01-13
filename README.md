@@ -30,7 +30,7 @@ Implemente animações baseadas no teclado:
 
 #### 2.4 Vibrar ao fazer uma ação
 Adicione um feedback tátil ao app utilizando o Haptic Feedback (vibração) para:
-- Confirmar uma ações importante.
+- Confirmar uma ação importante.
 
 #### 2.5. Carrossel de imagens:
 Adicione um carrossel interativo que permite navegar por imagens:
@@ -46,6 +46,7 @@ Como tarefa extra, você pode implementar testes automatizados para uma das func
 ## Critérios de avaliação
 - O app deve estar funcional e refletir as melhorias implementadas.
 - Documente no **README.md** o que foi adicionado e como cada funcionalidade funciona.
+- Será avaliada a funcionalidade do app, organização do código, experiência do usuário, boas práticas de desenvolvimento e clareza na documentação.
   
 ## Entrega
 Para entregar sua solução, acesse o repositório https://github.com/lumamontes/react-native-basic-implementations e crie uma cópia do repositório utilizando o template (botão Use this template).
