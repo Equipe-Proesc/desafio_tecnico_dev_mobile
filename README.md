@@ -51,7 +51,9 @@ Como tarefa extra, você pode implementar testes automatizados para uma das func
 ## Entrega
 Para entregar sua solução, acesse o repositório https://github.com/lumamontes/react-native-basic-implementations e crie uma cópia do repositório utilizando o template (botão Use this template).
 
-Deixe seu repositório privado e nos envie o link respondendo no e-mail recebido.
+Deixe seu repositório privado e libere permissão para os e-mails: lorena@proesc.com e luma@proesc.com
+
+Assim que finalizar, envie o link do repositório no e-mail recebido.
 
 Em caso de dúvida, não hesite em nos contatar através do e-mail recebido ou para lorena@proesc.com :)
 
