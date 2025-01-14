@@ -2,6 +2,10 @@
 
 Olá, bem vindo(a) ao desafio técnico do Proesc.com!
 
+<div align="center">
+  <img height="30%" width="30%" src="https://i.imgur.com/Vb68JcA.gif" />
+</div>
+
 Nesse projeto você vai trabalhar em um app chamado "React Native Basic Implementations"! O objetivo deste desafio é ampliar as funcionalidades do app modelo, aplicando conceitos importantes e boas práticas em **React Native**. 
 
 
